@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = 449391819@qq.com
+	name = Ding Wang
